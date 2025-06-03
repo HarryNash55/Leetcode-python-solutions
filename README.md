@@ -1,2 +1,2 @@
-# Harry Nash's attempte leetcoe solutions ocumente:
-## File names are organise by n.NameOfProblem-#x where x is the attempt number
+### My attempted leetcode solutions documented:
+#### File names are organised by n.NameOfProblem-#x where x is the attempt number
